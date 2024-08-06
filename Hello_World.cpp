@@ -1,7 +1,8 @@
 #include<iostream>
-//predefined preprocessor directive(standard header file).
+//“iostream” contains standard Input-Output functions like cout and cin
+//preprocessor directive(standard header file).
 using namespace std;
-
+//The names cout and endl belong to the std namespace.
 int main()
 //return type
 {
